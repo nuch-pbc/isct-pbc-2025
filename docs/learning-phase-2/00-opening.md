@@ -23,9 +23,9 @@ By the end of this workshop, you will:
 | 10:00-10:15 | Opening | You are here! |
 | 10:15-10:45 | Web Application Basics | Learn how web apps work |
 | 10:45-11:15 | AI Agent Demo | See AI build an app in seconds |
-| 11:15-12:00 | Setup Part1 | Install tools and create accounts |
+| 11:15-12:00 | Setup Part 1 | Install tools and create accounts |
 | 12:00-13:00 | Lunch Break | Recharge! |
-| 13:00-14:00 | Setup Part2 | Install remainning tools and create accounts |
+| 13:00-14:00 | Setup Part 2 | Install remaining tools and create accounts |
 | 14:00-17:00 | Programming Basics | Learn and practice programming basics |
 | 17:00-18:30 | Team Development | Learn Git and collaboration |
 | 18:30-19:00 | Summary & Q&A | Review and next steps |
